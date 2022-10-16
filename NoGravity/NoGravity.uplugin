@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 5,
+	"VersionName": "1.2.5",
+	"FriendlyName": "NoGravity",
+	"Description": "0 gravity /NoGravity/NoGravityMutator.NoGravityMutator_C&ugcID=2356179",
+	"Category": "UGC",
+	"CreatedBy": "th_mrow",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://mod.io/g/leap/m/nogravity",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

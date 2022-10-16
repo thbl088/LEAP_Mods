@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 25,
+	"VersionName": "0.1",
+	"FriendlyName": "GunGame",
+	"Description": "Do 2 kills and get a new weapon. The first one to get a kill with the last weapon win. /GunGame/GunGameMutator.GunGameMutator_C&ugcID=2292803",
+	"Category": "UGC",
+	"CreatedBy": "th_mrow",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://mod.io/g/leap/m/gungame1",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "1.0",
+	"FriendlyName": "NewWeaponOnKill",
+	"Description": "Switch weapon with your victim /NewWeaponOnKill/NewWeaponOnKillMutator.NewWeaponOnKillMutator_C&ugcID=2395743",
+	"Category": "UGC",
+	"CreatedBy": "th_mrow",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://mod.io/g/leap/m/newweapononkill1",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
