@@ -1,16 +1,16 @@
-on damage -> change % based on damage, but don't do damage on player
-on projectile hit -> get vector projectile/player -> bump in that direction based on the hitted player %
+on damage -> change % based on damage, but don't do damage on player  X
+on projectile hit -> get vector projectile/player -> bump in that direction based on the hitted player % (Need hitscan weapons but done for rl)
 bounce on the ground -> change movement state for x seconds based on speed/curb
 nerfing crouch (blocking crouch for x second on hit)
 nerfing spam grapple to stop momentum (same than before)
 
 Making map
-	death plane around the map
+	death plane around the map	
 	spawn for above with 5s invulnerability
 	
 
-Bump curb (trying to replicate smash)
-bump diffent depending on projectile (you can kill someone at 100% with 1 ar shot)
+Bump curb (trying to replicate smash) (done but should be made better)
+bump diffent depending on projectile (you can kill someone at 100% with 1 ar shot)  X
 
 
 
