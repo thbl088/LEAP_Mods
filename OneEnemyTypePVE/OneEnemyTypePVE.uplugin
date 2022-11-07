@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 4,
+	"VersionName": "1.0",
+	"FriendlyName": "OneEnemyTypePVE",
+	"Description": "All the enemies have the same class All the mutator available are : OneEnemyTypePVEMutator_Engineer OneEnemyTypePVEMutator_Flak OneEnemyTypePVEMutator_Grunt OneEnemyTypePVEMutator_Heavy OneEnemyTypePVEMutator_Mech OneEnemyTypePVEMutator_Riot OneEnemyTypePVEMutator_Sniper OneEnemyTypePVEMutator_Spec If you want more chaos you can use that one OneEnemyTypePVEMutator_Random Exemple for using a mod: /OneEnemyTypePVE/OneEnemyTypePVEMutator_Engineer.OneEnemyTypePVEMutator_Engineer_C&ugcID=2415110",
+	"Category": "UGC",
+	"CreatedBy": "th_mrow",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://mod.io/g/leap/m/oneenemytypepve",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
