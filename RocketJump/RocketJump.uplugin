@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 4,
+	"VersionName": "1.1",
+	"FriendlyName": "RocketJump",
+	"Description": "/RocketJump/RocketJumpMutator.RocketJumpMutator_C&ugcID=2459857",
+	"Category": "UGC",
+	"CreatedBy": "th_mrow",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://mod.io/g/leap/m/rocketjump",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
